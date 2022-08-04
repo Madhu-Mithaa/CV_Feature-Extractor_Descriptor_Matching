@@ -25,3 +25,7 @@
                    
                    Limitation - Need to set a different threshold for each image in order to detect the most important interesting points
                    
+## Contributors
+Vijayasri Iyer & Madhumithaa V
+
+                   
